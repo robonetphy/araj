@@ -71,7 +71,7 @@ img.slider-img {
 }
 
 .banner-info h2 {
-  font: 300 2rem "Helvetica", sans-serif;
+  font: 400 2rem "lato", sans-serif;
 }
 
 .banner h3 {
@@ -116,7 +116,7 @@ img.slider-img {
 
 .invited-by {
   margin-bottom: 30px;
-  font: 400 1.5rem "Helvetica", sans-serif;
+  font: 400 1.5rem "lato", sans-serif;
   /* color: #d0d0d0; */
 }
 
@@ -146,13 +146,13 @@ img.slider-img {
   margin-bottom: 120px;
   flex-direction: column;
   background-color: #fff;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .schedule-heading {
   margin-bottom: 50px;
   flex-direction: column;
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .schedule-heading h2 {
@@ -164,7 +164,7 @@ img.slider-img {
 }
 
 .schedule-info:hover {
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .schedule-info h2 {
